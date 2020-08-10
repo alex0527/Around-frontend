@@ -10,7 +10,7 @@ Backend
 * Used **Google Vision API** to provide a face detection model and integrate with the Go service.
 
 # Demo
-[Around Demo Vedio!](http://recordit.co/awrQb1zn2I)
+[Around Demo Video!](http://recordit.co/awrQb1zn2I)
 
 # Project Structure
 ![Image of Project Structure](https://github.com/alex0527/Around-frontend/blob/master/project%20structure.png)
